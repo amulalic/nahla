@@ -25,15 +25,21 @@ h2 {
 .brushes {
 
     background-color: mediumspringgreen;
+  border-radius: 5px;
+  padding: 5px;
 }
 .frames {
 
   background-color: maroon;
+  border-radius: 5px;
+  padding: 5px;
 
 }
 .paint {
 
     background-color: aqua;
+  border-radius: 5px;
+  padding: 5px;
  
 }
 h3.oprema {
