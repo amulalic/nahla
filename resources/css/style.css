@@ -7,8 +7,6 @@ body {
 background-image: url("../images/pattern.jpeg");
 background-repeat: no-repeat;
 text-align: center;
-
-font-family: Arial;
 font-size: 60px;
 font-weight: bold;
 color: khaki;
@@ -19,8 +17,6 @@ border-radius: 10px;
 
 h2 {
 
-
-  font-family: Arial;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -53,8 +49,6 @@ h3.oprema {
 }
 
 a {
-
-  font-family: Helvetica;
   font-weight: normal;
   color: blue;
 
