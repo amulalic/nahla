@@ -1,3 +1,6 @@
+body {
+}
+
 h1 {
 
 background-image: url("../images/pattern.jpeg");
@@ -5,10 +8,10 @@ background-repeat: no-repeat;
 text-align: center;
 
 font-family: Helvetica;
-font-size: 98px;
+font-size: 60px;
 font-weight: bold;
 color: khaki;
-
+padding: 20px;
 
 }
 
