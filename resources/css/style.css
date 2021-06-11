@@ -27,17 +27,17 @@ h2 {
 
     background-color: mediumspringgreen;
   padding: 5px;
-  border-radius: 10%;
+  border-radius: 10px solid mediumspringgreen;
 }
 .frames {
 
   background-color: maroon;
   padding: 5px;
-border-radius: 10%;
+border-radius: 10px solid maroon;
 }
 .paint {
     background-color: aqua;
-border-radius: 10%;
+border-radius: 10px solid aqua;
   padding: 5px;
  
 }
