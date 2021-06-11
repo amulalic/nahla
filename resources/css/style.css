@@ -1,3 +1,6 @@
+body {
+  font-family: Arial;
+}
 
 #header {
 
@@ -5,7 +8,7 @@ background-image: url("../images/pattern.jpeg");
 background-repeat: no-repeat;
 text-align: center;
 
-font-family: Helvetica;
+font-family: Arial;
 font-size: 60px;
 font-weight: bold;
 color: khaki;
