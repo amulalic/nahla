@@ -10,7 +10,7 @@ font-size: 60px;
 font-weight: bold;
 color: khaki;
 padding: 20px;
-border-radius: 10%;
+border-radius: 10px;
 }
 
 
@@ -58,5 +58,5 @@ a {
 }
 
 img {
-  border-radius: 10%;
+  border-radius: 10px;
 }
