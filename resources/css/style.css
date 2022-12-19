@@ -1,56 +1,59 @@
 body {
-  font-family: Arial;
+    font-family: Arial;
 }
 
 #header {
 
-background-image: url("../images/pattern.jpeg");
-background-repeat: no-repeat;
-text-align: center;
-font-size: 60px;
-font-weight: bold;
-color: khaki;
-padding: 20px;
-border-radius: 10px;
+    background-image: url("../images/pattern.jpeg");
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: khaki;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 
 h2 {
 
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
 }
 
 .brushes {
 
     background-color: mediumspringgreen;
-  padding: 5px;
-  border: 10px solid mediumspringgreen;
+    padding: 5px;
+    border: 10px solid mediumspringgreen;
 }
+
 .frames {
 
-  background-color: maroon;
-  padding: 5px;
-  border: 10px solid maroon;
+    background-color: maroon;
+    padding: 5px;
+    border: 10px solid maroon;
 }
+
 .paint {
     background-color: aqua;
-  border: 10px solid aqua;
-  padding: 5px;
- 
+    border: 10px solid aqua;
+    padding: 5px;
+
 }
+
 h3.oprema {
     font-size: 16px;
     color: gray;
 }
 
 a {
-  font-weight: normal;
-  color: blue;
+    font-weight: normal;
+    color: blue;
 
 }
 
 img {
-  border-radius: 10px;
+    border-radius: 10px;
 }
